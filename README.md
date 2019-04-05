@@ -1,16 +1,11 @@
-# Title
+# Git Cheatsheet
 
 ## Learning Goals
 
--SWBAT 1
--SWBAT 2
+- Bookmark a visual git command cheatsheet
 
 ## Introduction
 
-## SWBAT 1
+Spend 5 minutes browsing this [Visual Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet/previous/git-cheatsheet.html)
 
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+Hit cmd+d, bookmark it.
